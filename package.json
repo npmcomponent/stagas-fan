@@ -1,0 +1,13 @@
+{
+  "name": "stagas-fan",
+  "description": "extracts argument names from a function descriptor",
+  "version": "0.0.1",
+  "keywords": [
+    "function",
+    "arguments"
+  ],
+  "dependencies": {
+    "component-trim": "git://github.com/npmcomponent/component-trim.git"
+  },
+  "license": "MIT"
+}

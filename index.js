@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var trim = require('trim');
+var trim = require('component-trim');
 
 /**
  * Extract argument names from `fn`.
